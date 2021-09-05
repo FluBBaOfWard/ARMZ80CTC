@@ -1,0 +1,5 @@
+Z80CTC To do
+-------------
+
+	Fix timers, set irqs. Done.
+

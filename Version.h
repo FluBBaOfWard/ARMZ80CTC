@@ -1,0 +1,1 @@
+#define ARMZ80CTCVERSION "V0.1.0"
