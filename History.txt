@@ -2,6 +2,9 @@ Z80CTC revision history
 -=-=-=-=-=-=-=-=-=-=-=-=-
 
 
+V0.2.0 - 2024-05-10 (FluBBa)
+	Fixed calling of functions from C.
+
 V0.1.0 - 2018-07-27 (FluBBa)
 	Fixed Timer IRQs.
 

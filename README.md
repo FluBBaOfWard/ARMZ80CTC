@@ -1,6 +1,6 @@
-# ARMZ80CTC
+# ARMZ80CTC V0.2.0
 
-Z80CTC timer/irq chip emulator for ARM32.
+Z80 CTC (Z8430) timer/irq chip emulator for ARM32.
 
 ## How to use
 
@@ -16,4 +16,4 @@ Fredrik Ahlström
 
 X/Twitter @TheRealFluBBa
 
-https://www.github.com/FluBBaOfWard
+<https://www.github.com/FluBBaOfWard>
